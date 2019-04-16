@@ -1,2 +1,2 @@
 # git-tools-tutorials
-Day 5 totorial
+Day 5 tutorial
